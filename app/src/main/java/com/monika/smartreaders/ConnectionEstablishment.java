@@ -69,7 +69,7 @@ public class ConnectionEstablishment extends AppCompatActivity {
         try {
             Class.forName("net.sourceforge.jtds.jdbc.Driver");//invoking the class
             ConnectionUrl="jdbc:jtds:sqlserver://sqlfrtdb.database.windows.net:1433;DatabaseName=frtsqldb;user=frtgreatreaders@sqlfrtdb;password={azurefrt123@};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;";
-            con = DriverManager.getConnection("jdbc:mysql://localhost/bookshop", "root","");//establishing connection
+            con = DriverManager.getConnection(ConnectionUrl);//establishing connection
         }
         catch (ClassNotFoundException ex)
         {
