@@ -55,17 +55,6 @@ public class ConnectionEstablishment extends AppCompatActivity {
                         )
                 );
 
-
-               /* //
-                bookid
-                        author
-                bUri
-                        bCover
-                title
-                        nop
-                nov
-                        description
-*/
             }
         }
         catch (SQLException e)
