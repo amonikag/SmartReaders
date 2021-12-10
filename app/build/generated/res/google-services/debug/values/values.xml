@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1096096579335-5tapbs28vj4etdh0g23faq8atvfi8gk5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bookfriendly-40eaa-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1096096579335</string>
+    <string name="google_api_key" translatable="false">AIzaSyCXjpIsEyoS9rLFWGhfn_ym06T54VEDWBI</string>
+    <string name="google_app_id" translatable="false">1:1096096579335:android:bddbdbaa10543fe0184fa2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCXjpIsEyoS9rLFWGhfn_ym06T54VEDWBI</string>
+    <string name="google_storage_bucket" translatable="false">bookfriendly-40eaa.appspot.com</string>
+    <string name="project_id" translatable="false">bookfriendly-40eaa</string>
+</resources>

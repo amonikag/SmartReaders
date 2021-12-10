@@ -1,0 +1,224 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.monika.smartreaders"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <!--
+15     Required for API Level 30 to make sure we can detect browsers and other apps we want to
+16     be able to talk to.
+17    -->
+18    <!-- https://developer.android.com/training/basics/intents/package-visibility-use-cases -->
+19    <queries>
+19-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:19:5-39:15
+20        <package android:name="com.azure.authenticator" />
+20-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:20:9-59
+20-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:20:18-56
+21        <package android:name="com.microsoft.identity.testuserapp" />
+21-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:21:9-70
+21-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:21:18-67
+22        <package android:name="com.microsoft.windowsintune.companyportal" />
+22-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:22:9-77
+22-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:22:18-74
+23        <!--
+24        Required for API Level 30 to make sure we can detect browsers
+25        (that don't support custom tabs)
+26        -->
+27        <intent>
+27-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:27:9-33:18
+28            <action android:name="android.intent.action.VIEW" />
+28-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:46:17-69
+28-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:46:25-66
+29
+30            <category android:name="android.intent.category.BROWSABLE" />
+30-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:49:17-78
+30-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:49:27-75
+31
+32            <data android:scheme="https" />
+32-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:55:17-58:47
+32-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:58:21-44
+33        </intent>
+34        <!-- Required for API Level 30 to make sure we can detect browsers that support custom tabs -->
+35        <!-- https://developers.google.com/web/updates/2020/07/custom-tabs-android-11#detecting_browsers_that_support_custom_tabs -->
+36        <intent>
+36-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:36:9-38:18
+37            <action android:name="android.support.customtabs.action.CustomTabsService" />
+37-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:37:13-90
+37-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:37:21-87
+38        </intent>
+39    </queries>
+40
+41    <application
+41-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:8:5-65:19
+42        android:name="androidx.multidex.MultiDexApplication"
+43        android:allowBackup="false"
+43-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:9:9-36
+44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+44-->[androidx.core:core:1.5.0] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\c7ef75b126c8b6bfe64df1480ebbdd5a\core-1.5.0\AndroidManifest.xml:24:18-86
+45        android:debuggable="true"
+46        android:icon="@mipmap/ic_launcher"
+46-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:10:9-43
+47        android:label="@string/app_name"
+47-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:11:9-41
+48        android:largeHeap="true"
+48-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:12:9-33
+49        android:roundIcon="@mipmap/ic_launcher_round"
+49-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:13:9-54
+50        android:supportsRtl="true"
+50-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:14:9-35
+51        android:testOnly="true"
+52        android:theme="@style/Theme.Bookfriendly"
+52-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:15:9-50
+53        android:usesCleartextTraffic="true" >
+53-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:16:9-44
+54
+55        <!-- <activity android:name=".MainUI.CustomDashboard" /> -->
+56        <activity
+56-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:18:9-26:20
+57            android:name="com.monika.smartreaders.SplashScreen"
+57-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:19:13-64
+58            android:screenOrientation="portrait" >
+58-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:20:13-49
+59            <intent-filter>
+59-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:21:13-25:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:22:17-69
+60-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:22:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:24:17-77
+62-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:24:27-74
+63            </intent-filter>
+64        </activity>
+65        <activity
+65-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:28:9-30:52
+66            android:name="com.monika.smartreaders.MainUI.Dashboard"
+66-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:29:13-68
+67            android:screenOrientation="portrait" />
+67-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:30:13-49
+68        <activity
+68-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:31:9-33:52
+69            android:name="com.monika.smartreaders.MainUI.innerBooks.BookListDisplay"
+69-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:32:13-85
+70            android:screenOrientation="portrait" />
+70-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:33:13-49
+71        <activity
+71-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:34:9-36:52
+72            android:name="com.monika.smartreaders.MainUI.BookViewActivity"
+72-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:35:13-75
+73            android:screenOrientation="portrait" />
+73-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:36:13-49
+74        <activity
+74-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:37:9-38:51
+75            android:name="com.monika.smartreaders.MainUI.innerBooks.NewSection"
+75-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:37:19-86
+76            android:screenOrientation="portrait" />
+76-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:38:13-49
+77        <activity
+77-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:39:9-40:51
+78            android:name="com.monika.smartreaders.MsAuthPage"
+78-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:39:19-45
+79            android:screenOrientation="portrait" />
+79-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:40:13-49
+80        <activity
+80-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:41:9-42:51
+81            android:name="com.monika.smartreaders.ChatBot"
+81-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:41:19-42
+82            android:screenOrientation="portrait" />
+82-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:42:13-49
+83        <activity
+83-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:44:9-60:20
+84            android:name="com.microsoft.identity.client.BrowserTabActivity"
+84-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:44:19-82
+85            android:exported="true" >
+85-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:37:13-36
+86            <intent-filter>
+86-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:45:13-59:29
+87                <action android:name="android.intent.action.VIEW" />
+87-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:46:17-69
+87-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:46:25-66
+88
+89                <category android:name="android.intent.category.DEFAULT" />
+89-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:48:17-76
+89-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:48:27-73
+90                <category android:name="android.intent.category.BROWSABLE" />
+90-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:49:17-78
+90-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:49:27-75
+91
+92                <!--
+93                    Add in your scheme/host from registered redirect URI
+94                    note that the leading "/" is required for android:path
+95                -->
+96                <data
+96-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:55:17-58:47
+97                    android:host="com.monika.smartreaders"
+97-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:56:21-59
+98                    android:path="/Bmce+9aHdOoVtE7fS3B07tfj7Bc="
+98-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:57:21-65
+99                    android:scheme="msauth" />
+99-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:58:21-44
+100            </intent-filter>
+101        </activity>
+102
+103        <meta-data
+103-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:62:4-64:57
+104            android:name="preloaded_fonts"
+104-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:63:13-43
+105            android:resource="@array/preloaded_fonts" />
+105-->C:\Users\Balaji\AndroidStudioProjects\GreatReaders\app\src\main\AndroidManifest.xml:64:13-54
+106        <!-- MSAL activity that will be used to process all the auth related logic -->
+107        <activity
+107-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:16:9-20:47
+108            android:name="com.microsoft.identity.common.internal.providers.oauth2.AuthorizationActivity"
+108-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:17:13-105
+109            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize|screenLayout"
+109-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:18:13-106
+110            android:exported="false"
+110-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:19:13-37
+111            android:launchMode="singleTask" />
+111-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:20:13-44
+112        <activity
+112-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:21:9-25:45
+113            android:name="com.microsoft.identity.common.internal.providers.oauth2.CurrentTaskAuthorizationActivity"
+113-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:22:13-116
+114            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize|screenLayout"
+114-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:23:13-106
+115            android:exported="false"
+115-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:24:13-37
+116            android:launchMode="standard" /> <!-- Helper activity for displaying current broker redirect URI configuration -->
+116-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:25:13-42
+117        <activity
+117-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:28:9-32:45
+118            android:name="com.microsoft.identity.client.helper.BrokerHelperActivity"
+118-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:29:13-85
+119            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize|screenLayout"
+119-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:30:13-106
+120            android:exported="false"
+120-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:31:13-37
+121            android:launchMode="standard" />
+121-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:32:13-42
+122        <activity
+122-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:38:9-40:39
+123            android:name="com.microsoft.identity.client.CurrentTaskBrowserTabActivity"
+123-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:39:13-87
+124            android:exported="true" /> <!-- Activity to invoke an interactive request to the intent passed by ad-accounts(Broker) -->
+124-->[com.microsoft.identity.client:msal:2.2.2] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\38b34c1aa937c0e7eff14467d956e237\jetified-msal-2.2.2\AndroidManifest.xml:40:13-36
+125        <activity android:name="com.microsoft.identity.common.internal.broker.BrokerActivity" />
+125-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:50:9-97
+125-->[com.microsoft.identity:common:3.6.3] C:\Users\Balaji\.gradle\caches\transforms-2\files-2.1\3ce5115719948ced7a9d5df0dfe3ec6f\jetified-common-3.6.3\AndroidManifest.xml:50:19-94
+126    </application>
+127
+128</manifest>

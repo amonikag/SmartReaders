@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_playfair_display_sc_bold.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\playfair_display_sc_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_actor.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\actor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_bot_msg.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\bot_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_muli_black.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\muli_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_efda.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\efda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_msg.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\user_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_news_section.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_news_section.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phonebgscreen.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\phonebgscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newsiconbg.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\newsiconbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_listview.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\sample_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_book_view.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_book_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_top_rated_single_view.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\top_rated_single_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_acme.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\acme.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lock_y.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\lock_y.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_ms_signup.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\ms_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_novelicon.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\novelicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_tnc.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\color_tnc.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_bg.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable-v24\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_great_vibes.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\great_vibes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_muli_light.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\muli_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_aboutus.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\color_aboutus.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_abril_fatface.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\abril_fatface.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\anim_side_anim.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\anim\\side_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_booksicon.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\booksicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_chatbot.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\chatbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_person_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_outline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconbadge.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\iconbadge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\raw_batch.json.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\raw\\batch.json"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_baloo.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_image.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\circular_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_latest_new_cardsingleview.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\latest_new_cardsingleview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frbg.jpg.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\frbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_tab_fragment.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\login_tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_most_viewed_card.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\most_viewed_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tsp.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\tsp.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\anim_botthom_anim.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\anim\\botthom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_account.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\settings_account.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_b5.jpg.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\b5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_right_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_dashboardbook_oneitem.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\dashboardbook_oneitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chaticon.jpg.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\chaticon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_akronim.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\akronim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_antic_didone.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\antic_didone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_books1.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\books1.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_alice.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\alice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_home_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_outline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_rateus.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\color_rateus.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_settings_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_outline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\raw_shuff.json.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\raw\\shuff.json"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_custom_dashboard.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_custom_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\raw_auth_config_single_account.json.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\raw\\auth_config_single_account.json"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_fsggda.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\fsggda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\raw_shuff1.json.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\raw\\shuff1.json"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_container_bg.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\container_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_splash.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout-v21\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_adamina.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\adamina.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\raw_registration.json.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\raw\\registration.json"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_privacy.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\color_privacy.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cp_icon.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\cp_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_help.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\color_help.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logout.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable-hdpi\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_bg.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_signup_tab_fragment.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\signup_tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\font_amsterdam_four.ttf.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\font\\amsterdam_four.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_info_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_outline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_tp.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\tp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temp_bg_11.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\temp_bg_11.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_traidump.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\traidump.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bot.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_bot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_dashboard_fragment.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\dashboard_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_favorite_border_24.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\drawable\\ic_baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_option.xml.flat",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\item_option.xml"
+    }
+]

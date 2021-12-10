@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/comp"
+                android:layout_width="match_parent"
+                android:layout_height="150dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="131dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/trr1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginTop="3dp"
+                        android:layout_marginBottom="10dp"
+                        android:fontFamily="@font/acme"
+                        android:padding="14dp"
+                        android:text="Computer Engineering"
+                        android:textColor="@color/black"
+                        android:textSize="26sp" />
+
+
+
+                </RelativeLayout>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/comp" />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/it"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="131dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/trrt3">
+
+                    <ImageView
+                        android:id="@+id/iticon"
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_margin="10dp"
+                        android:src="@drawable/it" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toEndOf="@+id/iticon"
+                        android:layout_toRightOf="@+id/iticon"
+                        android:fontFamily="@font/acme"
+                        android:gravity="center"
+                        android:padding="20dp"
+                        android:layout_centerVertical="true"
+                        android:text="Information Technology"
+                        android:textColor="@color/black"
+                        android:textSize="26sp" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/extc"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="131dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/trrt2">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:fontFamily="@font/acme"
+                        android:padding="20dp"
+                        android:text="Electronics and Telecommunication"
+                        android:textColor="@color/black"
+                        android:textSize="26sp" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/extc" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/chem"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="131dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/trrt4">
+
+                    <ImageView
+                        android:id="@+id/chemicon"
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_margin="10dp"
+                        android:src="@drawable/chem" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toEndOf="@+id/chemicon"
+                        android:layout_toRightOf="@+id/chemicon"
+                        android:fontFamily="@font/acme"
+                        android:gravity="center"
+                        android:padding="20dp"
+                        android:layout_centerVertical="true"
+                        android:text="Chemical Engineering"
+                        android:textColor="@color/black"
+                        android:textSize="26sp" />
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/civil"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="131dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/trrt5">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_margin="10dp"
+                        android:fontFamily="@font/acme"
+                        android:padding="20dp"
+                        android:text="Civil Engineering"
+                        android:textColor="@color/black"
+                        android:textSize="30sp" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/civil"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="10dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/mech"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="131dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/trrt3">
+
+                    <ImageView
+                        android:id="@+id/mechicon"
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_margin="10dp"
+                        android:src="@drawable/mech" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toEndOf="@+id/mechicon"
+                        android:layout_toRightOf="@+id/mechicon"
+                        android:fontFamily="@font/acme"
+                        android:gravity="center"
+                        android:padding="20dp"
+                        android:layout_centerVertical="true"
+                        android:text="Mechanical Engineering"
+                        android:textColor="@color/black"
+                        android:textSize="26sp" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/agri"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="131dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/trrt2">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:fontFamily="@font/acme"
+                        android:padding="20dp"
+                        android:text="Agricultural\nEngineering"
+                        android:textColor="@color/black"
+                        android:textSize="26sp" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/agri"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="10dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/aero"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="131dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/trrt4">
+
+                    <ImageView
+                        android:id="@+id/aeroicon"
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_margin="10dp"
+                        android:src="@drawable/aero" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toEndOf="@+id/aeroicon"
+                        android:layout_toRightOf="@+id/aeroicon"
+                        android:fontFamily="@font/acme"
+                        android:gravity="center"
+                        android:padding="20dp"
+                        android:layout_centerVertical="true"
+                        android:text="Aeronautical Engineering"
+                        android:textColor="@color/black"
+                        android:textSize="26sp" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/auto"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:clickable="true"
+                android:focusable="true">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="131dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="2dp"
+                    android:background="@drawable/trr1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="10dp"
+                        android:fontFamily="@font/acme"
+                        android:padding="20dp"
+                        android:text="Automobile Engineering"
+                        android:textColor="@color/black"
+                        android:textSize="30sp" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:src="@drawable/auto"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="10dp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096096579335",
+    "firebase_url": "https://bookfriendly-40eaa-default-rtdb.firebaseio.com",
+    "project_id": "bookfriendly-40eaa",
+    "storage_bucket": "bookfriendly-40eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096096579335:android:bddbdbaa10543fe0184fa2",
+        "android_client_info": {
+          "package_name": "com.monika.smartreaders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096096579335-f5n80pu9h2sh6t6qdhktvd7je02q52d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monika.bookfriendly",
+            "certificate_hash": "bce3230aeba2cc95522ab8d046845732ce36e980"
+          }
+        },
+        {
+          "client_id": "1096096579335-5tapbs28vj4etdh0g23faq8atvfi8gk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXjpIsEyoS9rLFWGhfn_ym06T54VEDWBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096096579335-5tapbs28vj4etdh0g23faq8atvfi8gk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

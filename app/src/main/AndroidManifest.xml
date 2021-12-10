@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.monika.smartreaders">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Bookfriendly"
+        android:usesCleartextTraffic="true">
+        <!-- <activity android:name=".MainUI.CustomDashboard" /> -->
+        <activity
+            android:name="com.monika.smartreaders.SplashScreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.monika.smartreaders.MainUI.Dashboard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.monika.smartreaders.MainUI.innerBooks.BookListDisplay"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.monika.smartreaders.MainUI.BookViewActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.monika.smartreaders.MainUI.innerBooks.NewSection"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".MsAuthPage"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChatBot"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name="com.microsoft.identity.client.BrowserTabActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <!--
+                    Add in your scheme/host from registered redirect URI
+                    note that the leading "/" is required for android:path
+                -->
+                <data
+                    android:host="com.monika.smartreaders"
+                    android:path="/Bmce+9aHdOoVtE7fS3B07tfj7Bc="
+                    android:scheme="msauth" />
+            </intent-filter>
+        </activity>
+
+   <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

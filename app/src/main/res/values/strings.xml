@@ -1,0 +1,24 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Smart Readers</string>
+    <string name="loginImagedes">Blue Image</string>
+    <string name="otp_code">OTP</string>
+    <string name="otp_verification">verification</string>
+    <string name="otp_mesInd">Enter OTP sent on </string>
+    <string name="verify_code">Verify Code</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enghead">All Engineering branches</string>
+    <string name="back_image">back Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_new_section">NewSection</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="created_by_monika_with">Created by Monika with ❤</string>
+    <string name="appname">SmartReaders</string>
+</resources>

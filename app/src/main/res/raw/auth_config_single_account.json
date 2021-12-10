@@ -1,0 +1,13 @@
+{
+  "client_id" : "de966559-1b4d-4271-abbc-440146781edd",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://com.monika.smartreaders/Bmce%2B9aHdOoVtE7fS3B07tfj7Bc%3D",
+  "account_mode" : "SINGLE",
+  "broker_redirect_uri_registered": false,
+  "authorities" : [
+    {
+      "type": "AAD",
+      "authority_url": "https://login.microsoftonline.com/common"
+    }
+  ]
+}

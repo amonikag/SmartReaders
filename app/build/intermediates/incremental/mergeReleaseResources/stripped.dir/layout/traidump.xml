@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--<ImageView
+        android:id="@+id/booksegment"
+        android:layout_width="386dp"
+        android:layout_height="135dp"
+        android:layout_marginStart="13dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="528dp"
+        android:background="@drawable/container_bg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/bimg"
+        android:layout_width="120dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="8dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="@+id/booksegment"
+        app:layout_constraintStart_toStartOf="@+id/booksegment"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="01"
+        app:srcCompat="@drawable/b3" />
+
+    <TextView
+        android:id="@+id/btitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/playfair_display_sc_bold"
+        android:text="Dealthy hallows- \nHARRY POTTER"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/booksegment"
+        app:layout_constraintHorizontal_bias="0"
+        app:layout_constraintStart_toEndOf="@+id/bimg"
+        app:layout_constraintTop_toTopOf="@+id/booksegment" />
+
+    <TextView
+        android:id="@+id/bauthor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/playfair_display_sc_bold"
+        android:text="J.K ROWLING"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/booksegment"
+        app:layout_constraintHorizontal_bias="0"
+        app:layout_constraintStart_toEndOf="@+id/bimg"
+        app:layout_constraintTop_toBottomOf="@+id/btitle" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="12dp"
+        app:layout_constraintBottom_toBottomOf="@+id/booksegment"
+        app:layout_constraintEnd_toEndOf="@+id/booksegment"
+        app:layout_constraintHorizontal_bias="0.94"
+        app:layout_constraintStart_toEndOf="@+id/textView2"
+        app:srcCompat="@drawable/ic_baseline_favorite_border_24" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="Novel"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@+id/booksegment"
+        app:layout_constraintStart_toEndOf="@+id/bimg"
+        app:layout_constraintTop_toBottomOf="@+id/bauthor"
+        app:layout_constraintVertical_bias="0.142" />
+
+    <TextView
+        android:id="@+id/pagereview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="16dp"
+        android:text="607 pages | 335 views"
+        app:layout_constraintBottom_toBottomOf="@+id/booksegment"
+        app:layout_constraintEnd_toStartOf="@+id/imageView4"
+        app:layout_constraintStart_toEndOf="@+id/textView2" />
+-->
+
+   <!-- <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_book"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbar" />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!-- <RelativeLayout
+                   android:layout_width="wrap_content"
+                   android:layout_height="40dp"
+                   android:layout_below="@id/tagline"
+                   android:background="@color/light_medium_gray"
+                   android:layout_marginLeft="40dp"
+                   android:layout_marginRight="40dp"
+                   android:layout_marginTop="20dp"
+                   android:layout_marginBottom="20dp"
+                   android:elevation="8dp">
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Search......"
+                   android:layout_centerVertical="true"
+                   android:layout_marginLeft="15dp"
+                   android:layout_marginStart="15dp" />
+               <ImageView
+                   android:layout_width="30dp"
+                   android:layout_height="30dp"
+                   app:srcCompat="@drawable/ic_baseline_search_24"
+                   android:layout_alignParentRight="true"
+                   android:layout_centerVertical="true"
+                   android:layout_marginRight="15dp"
+                   android:layout_alignParentEnd="true"
+                   android:layout_marginEnd="15dp" /></RelativeLayout>-->
+
+    <!--
+    MAIN DASHBOARD TOP RATED UI CODE
+
+    <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical"
+                android:padding="20dp">
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/acme"
+                        android:text="Top rated!"
+                        android:textColor="@color/black"
+                        android:textSize="20sp" />
+                </RelativeLayout>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/toprated"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp" />
+            </LinearLayout>-->

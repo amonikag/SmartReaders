@@ -1,0 +1,4 @@
+1] Don't forget to update security rules in firebase
+2] Don't forget to store login data and time, also last logout details
+3] remove retrofit after successfully firebase authentication
+4] There's some problem with OTP please see to it.

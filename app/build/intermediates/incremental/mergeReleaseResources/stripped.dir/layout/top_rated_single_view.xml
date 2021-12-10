@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="4dp"
+    app:cardElevation="8dp"
+    android:layout_margin="6dp"
+    app:cardBackgroundColor="@color/light_medium_gray">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="6dp">
+
+        <ImageView
+            android:id="@+id/bookcover"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/b5"
+            android:layout_marginTop="10dp"
+            android:scaleType="centerCrop"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="First Books"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="3dp"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo"/>
+
+        <TextView
+            android:id="@+id/bauthor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="S.K.H SHARMA"
+            android:layout_below="@id/title"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:textSize="12dp"
+            android:fontFamily="@font/baloo"/>
+
+        <RatingBar
+            android:id="@+id/ratingbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/Widget.AppCompat.RatingBar.Small"
+            android:layout_below="@id/bauthor"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"
+            android:rating="4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ratingbar"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="4dp"
+            android:text="SOME RANDOM\nDESCRIPTON"
+            android:textSize="12sp" />
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

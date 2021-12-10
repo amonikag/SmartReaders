@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\ms_signup.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\ms_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\traidump.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\traidump.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fsggda.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\fsggda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chatbot.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\chatbot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_book_view.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_book_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\signup_tab_fragment.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\signup_tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\login_tab_fragment.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\login_tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tp.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\tp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bot_msg.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\bot_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\top_rated_single_view.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\top_rated_single_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\latest_new_cardsingleview.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\latest_new_cardsingleview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\sample_listview.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\sample_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\most_viewed_card.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\most_viewed_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\drawer_menu.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_custom_dashboard.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_custom_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_news_section.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\activity_news_section.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dashboard_fragment.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\dashboard_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_option.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\item_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dashboardbook_oneitem.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\dashboardbook_oneitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_msg.xml",
+        "source": "C:\\Users\\Balaji\\AndroidStudioProjects\\GreatReaders\\app\\src\\main\\res\\layout\\user_msg.xml"
+    }
+]

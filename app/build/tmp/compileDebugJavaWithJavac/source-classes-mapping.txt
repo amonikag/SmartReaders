@@ -1,0 +1,152 @@
+com/monika/smartreaders/databinding/SignupTabFragmentBinding.java
+ com.monika.smartreaders.databinding.SignupTabFragmentBinding
+com/monika/smartreaders/ModelResponse/ChatbotModel.java
+ com.monika.smartreaders.ModelResponse.ChatbotModel
+com/monika/smartreaders/BuildConfig.java
+ com.monika.smartreaders.BuildConfig
+com/monika/smartreaders/MainUI/fragments/UserSettings.java
+ com.monika.smartreaders.MainUI.fragments.UserSettings
+ com.monika.smartreaders.MainUI.fragments.UserSettings$Callbacks
+ com.monika.smartreaders.MainUI.fragments.UserSettings$SettingsAdapter
+ com.monika.smartreaders.MainUI.fragments.UserSettings$SettingsAdapter$1
+ com.monika.smartreaders.MainUI.fragments.UserSettings$SettingsAdapter$2
+ com.monika.smartreaders.MainUI.fragments.UserSettings$SettingsAdapter$3
+ com.monika.smartreaders.MainUI.fragments.UserSettings$SettingsAdapter$4
+ com.monika.smartreaders.MainUI.fragments.UserSettings$SettingsAdapter$5
+ com.monika.smartreaders.MainUI.fragments.UserSettings$SettingsAdapter$ViewHolder
+com/monika/smartreaders/databinding/LoginTabFragmentBinding.java
+ com.monika.smartreaders.databinding.LoginTabFragmentBinding
+com/monika/smartreaders/MainUI/SimpleItem.java
+ com.monika.smartreaders.MainUI.SimpleItem
+ com.monika.smartreaders.MainUI.SimpleItem$ViewHolder
+com/monika/smartreaders/databinding/LatestNewCardsingleviewBinding.java
+ com.monika.smartreaders.databinding.LatestNewCardsingleviewBinding
+com/monika/smartreaders/MainUI/DrawerItem.java
+ com.monika.smartreaders.MainUI.DrawerItem
+com/monika/smartreaders/databinding/ActivityNewsSectionBinding.java
+ com.monika.smartreaders.databinding.ActivityNewsSectionBinding
+com/monika/smartreaders/databinding/MsSignupBinding.java
+ com.monika.smartreaders.databinding.MsSignupBinding
+com/monika/smartreaders/ModelResponse/recentModel.java
+ com.monika.smartreaders.ModelResponse.recentModel
+com/monika/smartreaders/databinding/ChatbotBinding.java
+ com.monika.smartreaders.databinding.ChatbotBinding
+com/monika/smartreaders/databinding/DashboardbookOneitemBinding.java
+ com.monika.smartreaders.databinding.DashboardbookOneitemBinding
+com/monika/smartreaders/databinding/ItemOptionBinding.java
+ com.monika.smartreaders.databinding.ItemOptionBinding
+com/monika/smartreaders/databinding/BotMsgBinding.java
+ com.monika.smartreaders.databinding.BotMsgBinding
+com/monika/smartreaders/databinding/MostViewedCardBinding.java
+ com.monika.smartreaders.databinding.MostViewedCardBinding
+com/monika/smartreaders/SplashScreen.java
+ com.monika.smartreaders.SplashScreen
+ com.monika.smartreaders.SplashScreen$1
+com/monika/smartreaders/ModelResponse/SettingsViewModel.java
+ com.monika.smartreaders.ModelResponse.SettingsViewModel
+com/monika/smartreaders/databinding/FragmentSettingsBinding.java
+ com.monika.smartreaders.databinding.FragmentSettingsBinding
+com/monika/smartreaders/MSGraphRequestWrapper.java
+ com.monika.smartreaders.MSGraphRequestWrapper
+ com.monika.smartreaders.MSGraphRequestWrapper$1
+com/monika/smartreaders/ModelResponse/BookDisplay.java
+ com.monika.smartreaders.ModelResponse.BookDisplay
+com/monika/smartreaders/databinding/ActivityLoginBinding.java
+ com.monika.smartreaders.databinding.ActivityLoginBinding
+com/monika/smartreaders/ModelResponse/SettingsModel.java
+ com.monika.smartreaders.ModelResponse.SettingsModel
+com/monika/smartreaders/MainUI/RecyclerView/recentlyViewedAdapter.java
+ com.monika.smartreaders.MainUI.RecyclerView.recentlyViewedAdapter
+ com.monika.smartreaders.MainUI.RecyclerView.recentlyViewedAdapter$1
+ com.monika.smartreaders.MainUI.RecyclerView.recentlyViewedAdapter$recentholder
+com/monika/smartreaders/MsAuthPage.java
+ com.monika.smartreaders.MsAuthPage
+ com.monika.smartreaders.MsAuthPage$1
+ com.monika.smartreaders.MsAuthPage$1$1
+ com.monika.smartreaders.MsAuthPage$2
+ com.monika.smartreaders.MsAuthPage$3
+ com.monika.smartreaders.MsAuthPage$4
+ com.monika.smartreaders.MsAuthPage$5
+ com.monika.smartreaders.MsAuthPage$6
+ com.monika.smartreaders.MsAuthPage$7
+ com.monika.smartreaders.MsAuthPage$8
+com/monika/smartreaders/ChatBot.java
+ com.monika.smartreaders.ChatBot
+ com.monika.smartreaders.ChatBot$1
+ com.monika.smartreaders.ChatBot$RetrieveFeedTask
+com/monika/smartreaders/DrawerAdapter.java
+ com.monika.smartreaders.DrawerAdapter
+ com.monika.smartreaders.DrawerAdapter$OnItemSelectedListener
+ com.monika.smartreaders.DrawerAdapter$ViewHolder
+com/monika/smartreaders/MainUI/RecyclerView/MessageRVAdapter.java
+ com.monika.smartreaders.MainUI.RecyclerView.MessageRVAdapter
+ com.monika.smartreaders.MainUI.RecyclerView.MessageRVAdapter$BotViewHolder
+ com.monika.smartreaders.MainUI.RecyclerView.MessageRVAdapter$UserViewHolder
+com/monika/smartreaders/databinding/FragmentSlideshowBinding.java
+ com.monika.smartreaders.databinding.FragmentSlideshowBinding
+com/monika/smartreaders/databinding/FragmentProfileBinding.java
+ com.monika.smartreaders.databinding.FragmentProfileBinding
+com/monika/smartreaders/ModelResponse/ProfileViewModel.java
+ com.monika.smartreaders.ModelResponse.ProfileViewModel
+com/monika/smartreaders/databinding/ActivityBookViewBinding.java
+ com.monika.smartreaders.databinding.ActivityBookViewBinding
+com/monika/smartreaders/MainUI/innerBooks/BookListDisplay.java
+ com.monika.smartreaders.MainUI.innerBooks.BookListDisplay
+com/monika/smartreaders/databinding/DashboardFragmentBinding.java
+ com.monika.smartreaders.databinding.DashboardFragmentBinding
+com/monika/smartreaders/ModelResponse/RegisterResponse.java
+ com.monika.smartreaders.ModelResponse.RegisterResponse
+com/monika/smartreaders/databinding/SampleListviewBinding.java
+ com.monika.smartreaders.databinding.SampleListviewBinding
+com/monika/smartreaders/MainUI/fragments/Home.java
+ com.monika.smartreaders.MainUI.fragments.Home
+com/monika/smartreaders/databinding/TraidumpBinding.java
+ com.monika.smartreaders.databinding.TraidumpBinding
+com/monika/smartreaders/MainUI/BookViewActivity.java
+ com.monika.smartreaders.MainUI.BookViewActivity
+ com.monika.smartreaders.MainUI.BookViewActivity$pdfView
+com/monika/smartreaders/databinding/DrawerMenuBinding.java
+ com.monika.smartreaders.databinding.DrawerMenuBinding
+com/monika/smartreaders/MainUI/fragments/MyProfile.java
+ com.monika.smartreaders.MainUI.fragments.MyProfile
+com/monika/smartreaders/MainUI/SpaceItem.java
+ com.monika.smartreaders.MainUI.SpaceItem
+ com.monika.smartreaders.MainUI.SpaceItem$ViewHolder
+com/monika/smartreaders/MainUI/innerBooks/NewSection.java
+ com.monika.smartreaders.MainUI.innerBooks.NewSection
+com/monika/smartreaders/MainUI/RecyclerView/LatestAdapter.java
+ com.monika.smartreaders.MainUI.RecyclerView.LatestAdapter
+ com.monika.smartreaders.MainUI.RecyclerView.LatestAdapter$1
+ com.monika.smartreaders.MainUI.RecyclerView.LatestAdapter$latestViewHolder
+com/monika/smartreaders/ModelResponse/latestRecords.java
+ com.monika.smartreaders.ModelResponse.latestRecords
+com/monika/smartreaders/MainUI/Dashboard.java
+ com.monika.smartreaders.MainUI.Dashboard
+com/monika/smartreaders/MainUI/RecyclerView/BookAdapter.java
+ com.monika.smartreaders.MainUI.RecyclerView.BookAdapter
+ com.monika.smartreaders.MainUI.RecyclerView.BookAdapter$1
+ com.monika.smartreaders.MainUI.RecyclerView.BookAdapter$bookviewholder
+com/monika/smartreaders/databinding/TopRatedSingleViewBinding.java
+ com.monika.smartreaders.databinding.TopRatedSingleViewBinding
+com/monika/smartreaders/MainUI/fragments/Main_Dashboard.java
+ com.monika.smartreaders.MainUI.fragments.Main_Dashboard
+ com.monika.smartreaders.MainUI.fragments.Main_Dashboard$1
+ com.monika.smartreaders.MainUI.fragments.Main_Dashboard$2
+ com.monika.smartreaders.MainUI.fragments.Main_Dashboard$3
+ com.monika.smartreaders.MainUI.fragments.Main_Dashboard$4
+com/monika/smartreaders/databinding/ActivitySplashBinding.java
+ com.monika.smartreaders.databinding.ActivitySplashBinding
+com/monika/smartreaders/databinding/FsggdaBinding.java
+ com.monika.smartreaders.databinding.FsggdaBinding
+com/monika/smartreaders/databinding/ActivityCustomDashboardBinding.java
+ com.monika.smartreaders.databinding.ActivityCustomDashboardBinding
+com/monika/smartreaders/ModelResponse/User.java
+ com.monika.smartreaders.ModelResponse.User
+com/monika/smartreaders/databinding/UserMsgBinding.java
+ com.monika.smartreaders.databinding.UserMsgBinding
+com/monika/smartreaders/databinding/TpBinding.java
+ com.monika.smartreaders.databinding.TpBinding
+com/monika/smartreaders/ConnectionEstablishment.java
+ com.monika.smartreaders.ConnectionEstablishment
+com/monika/smartreaders/databinding/ActivityDashboardBinding.java
+ com.monika.smartreaders.databinding.ActivityDashboardBinding

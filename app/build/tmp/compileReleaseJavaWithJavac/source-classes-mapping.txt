@@ -1,0 +1,215 @@
+com/monika/greatreaders/databinding/ActivityNewsSectionBinding.java
+ com.monika.greatreaders.databinding.ActivityNewsSectionBinding
+com/monika/greatreaders/databinding/FavFragmentBinding.java
+ com.monika.greatreaders.databinding.FavFragmentBinding
+com/monika/greatreaders/databinding/BranchUiBinding.java
+ com.monika.greatreaders.databinding.BranchUiBinding
+com/monika/greatreaders/databinding/DrawerMenuBinding.java
+ com.monika.greatreaders.databinding.DrawerMenuBinding
+com/monika/greatreaders/databinding/SampleListviewBinding.java
+ com.monika.greatreaders.databinding.SampleListviewBinding
+com/monika/greatreaders/MainUI/fragments/Main_Dashboard.java
+ com.monika.greatreaders.MainUI.fragments.Main_Dashboard
+ com.monika.greatreaders.MainUI.fragments.Main_Dashboard$1
+ com.monika.greatreaders.MainUI.fragments.Main_Dashboard$2
+ com.monika.greatreaders.MainUI.fragments.Main_Dashboard$3
+ com.monika.greatreaders.MainUI.fragments.Main_Dashboard$4
+ com.monika.greatreaders.MainUI.fragments.Main_Dashboard$5
+ com.monika.greatreaders.MainUI.fragments.Main_Dashboard$5$1
+ com.monika.greatreaders.MainUI.fragments.Main_Dashboard$6
+ com.monika.greatreaders.MainUI.fragments.Main_Dashboard$6$1
+com/monika/greatreaders/databinding/FragmentSlideshowBinding.java
+ com.monika.greatreaders.databinding.FragmentSlideshowBinding
+com/monika/greatreaders/databinding/ActivitySplashBinding.java
+ com.monika.greatreaders.databinding.ActivitySplashBinding
+com/monika/greatreaders/databinding/ActivityCatMainSectionBinding.java
+ com.monika.greatreaders.databinding.ActivityCatMainSectionBinding
+com/monika/greatreaders/databinding/ActivityEngineeringBranchBinding.java
+ com.monika.greatreaders.databinding.ActivityEngineeringBranchBinding
+com/monika/greatreaders/databinding/ActivityLoginBinding.java
+ com.monika.greatreaders.databinding.ActivityLoginBinding
+com/monika/greatreaders/LoginActivity.java
+ com.monika.greatreaders.LoginActivity
+ com.monika.greatreaders.LoginActivity$1
+com/monika/greatreaders/ModelResponse/RegisterResponse.java
+ com.monika.greatreaders.ModelResponse.RegisterResponse
+com/monika/greatreaders/databinding/LatestNewCardsingleviewBinding.java
+ com.monika.greatreaders.databinding.LatestNewCardsingleviewBinding
+com/monika/greatreaders/BuildConfig.java
+ com.monika.greatreaders.BuildConfig
+com/monika/greatreaders/DrawerAdapter.java
+ com.monika.greatreaders.DrawerAdapter
+ com.monika.greatreaders.DrawerAdapter$OnItemSelectedListener
+ com.monika.greatreaders.DrawerAdapter$ViewHolder
+com/monika/greatreaders/LoginTabFragment.java
+ com.monika.greatreaders.LoginTabFragment
+ com.monika.greatreaders.LoginTabFragment$1
+com/monika/greatreaders/MainUI/SpaceItem.java
+ com.monika.greatreaders.MainUI.SpaceItem
+ com.monika.greatreaders.MainUI.SpaceItem$ViewHolder
+com/monika/greatreaders/MainUI/fragments/Favourite.java
+ com.monika.greatreaders.MainUI.fragments.Favourite
+ com.monika.greatreaders.MainUI.fragments.Favourite$1
+ com.monika.greatreaders.MainUI.fragments.Favourite$1$1
+com/monika/greatreaders/MainUI/RecyclerView/LatestAdapter.java
+ com.monika.greatreaders.MainUI.RecyclerView.LatestAdapter
+ com.monika.greatreaders.MainUI.RecyclerView.LatestAdapter$1
+ com.monika.greatreaders.MainUI.RecyclerView.LatestAdapter$latestViewHolder
+com/monika/greatreaders/MainUI/RecyclerView/BookAdapter.java
+ com.monika.greatreaders.MainUI.RecyclerView.BookAdapter
+ com.monika.greatreaders.MainUI.RecyclerView.BookAdapter$1
+ com.monika.greatreaders.MainUI.RecyclerView.BookAdapter$1$1
+ com.monika.greatreaders.MainUI.RecyclerView.BookAdapter$2
+ com.monika.greatreaders.MainUI.RecyclerView.BookAdapter$2$1
+ com.monika.greatreaders.MainUI.RecyclerView.BookAdapter$bookviewholder
+com/monika/greatreaders/MainUI/RecyclerView/recentlyViewedAdapter.java
+ com.monika.greatreaders.MainUI.RecyclerView.recentlyViewedAdapter
+ com.monika.greatreaders.MainUI.RecyclerView.recentlyViewedAdapter$1
+ com.monika.greatreaders.MainUI.RecyclerView.recentlyViewedAdapter$recentholder
+com/monika/greatreaders/databinding/LoginTabFragmentBinding.java
+ com.monika.greatreaders.databinding.LoginTabFragmentBinding
+com/monika/greatreaders/MainUI/SimpleItem.java
+ com.monika.greatreaders.MainUI.SimpleItem
+ com.monika.greatreaders.MainUI.SimpleItem$ViewHolder
+com/monika/greatreaders/ModelResponse/User.java
+ com.monika.greatreaders.ModelResponse.User
+com/monika/greatreaders/ListCreation.java
+ com.monika.greatreaders.ListCreation
+ com.monika.greatreaders.ListCreation$1
+ com.monika.greatreaders.ListCreation$1$1
+ com.monika.greatreaders.ListCreation$UpdationOfBooks
+com/monika/greatreaders/MainUI/innerBooks/BookListDisplay.java
+ com.monika.greatreaders.MainUI.innerBooks.BookListDisplay
+ com.monika.greatreaders.MainUI.innerBooks.BookListDisplay$1
+ com.monika.greatreaders.MainUI.innerBooks.BookListDisplay$1$1
+com/monika/greatreaders/databinding/DashboardbookOneitemBinding.java
+ com.monika.greatreaders.databinding.DashboardbookOneitemBinding
+com/monika/greatreaders/MainUI/RecyclerView/topRatedAdapter.java
+ com.monika.greatreaders.MainUI.RecyclerView.topRatedAdapter
+ com.monika.greatreaders.MainUI.RecyclerView.topRatedAdapter$ratedholder
+com/monika/greatreaders/databinding/DashboardFragmentBinding.java
+ com.monika.greatreaders.databinding.DashboardFragmentBinding
+com/monika/greatreaders/databinding/FragmentProfileBinding.java
+ com.monika.greatreaders.databinding.FragmentProfileBinding
+com/monika/greatreaders/MainUI/innerBooks/EngineeringBranch.java
+ com.monika.greatreaders.MainUI.innerBooks.EngineeringBranch
+com/monika/greatreaders/SignUpTabFragment.java
+ com.monika.greatreaders.SignUpTabFragment
+ com.monika.greatreaders.SignUpTabFragment$1
+ com.monika.greatreaders.SignUpTabFragment$2
+com/monika/greatreaders/databinding/ActivityDashboardBinding.java
+ com.monika.greatreaders.databinding.ActivityDashboardBinding
+com/monika/greatreaders/databinding/TpBinding.java
+ com.monika.greatreaders.databinding.TpBinding
+com/monika/greatreaders/databinding/ItemOptionBinding.java
+ com.monika.greatreaders.databinding.ItemOptionBinding
+com/monika/greatreaders/MainUI/fragments/eng_branch.java
+ com.monika.greatreaders.MainUI.fragments.eng_branch
+ com.monika.greatreaders.MainUI.fragments.eng_branch$1
+ com.monika.greatreaders.MainUI.fragments.eng_branch$2
+ com.monika.greatreaders.MainUI.fragments.eng_branch$3
+ com.monika.greatreaders.MainUI.fragments.eng_branch$4
+ com.monika.greatreaders.MainUI.fragments.eng_branch$5
+ com.monika.greatreaders.MainUI.fragments.eng_branch$6
+ com.monika.greatreaders.MainUI.fragments.eng_branch$7
+ com.monika.greatreaders.MainUI.fragments.eng_branch$8
+ com.monika.greatreaders.MainUI.fragments.eng_branch$9
+com/monika/greatreaders/ModelResponse/recentModel.java
+ com.monika.greatreaders.ModelResponse.recentModel
+com/monika/greatreaders/SplashScreen.java
+ com.monika.greatreaders.SplashScreen
+ com.monika.greatreaders.SplashScreen$1
+ com.monika.greatreaders.SplashScreen$1$1
+com/monika/greatreaders/databinding/TopRatedSingleViewBinding.java
+ com.monika.greatreaders.databinding.TopRatedSingleViewBinding
+com/monika/greatreaders/SharedPref.java
+ com.monika.greatreaders.SharedPref
+com/monika/greatreaders/LoginAdapter.java
+ com.monika.greatreaders.LoginAdapter
+com/monika/greatreaders/databinding/SignupTabFragmentBinding.java
+ com.monika.greatreaders.databinding.SignupTabFragmentBinding
+com/monika/greatreaders/ModelResponse/SettingsModel.java
+ com.monika.greatreaders.ModelResponse.SettingsModel
+com/monika/greatreaders/Phone_take_Activity.java
+ com.monika.greatreaders.Phone_take_Activity
+ com.monika.greatreaders.Phone_take_Activity$1
+ com.monika.greatreaders.Phone_take_Activity$2
+com/monika/greatreaders/databinding/FragmentSettingsBinding.java
+ com.monika.greatreaders.databinding.FragmentSettingsBinding
+com/monika/greatreaders/ModelResponse/FirebaseRegister.java
+ com.monika.greatreaders.ModelResponse.FirebaseRegister
+com/monika/greatreaders/databinding/AboutUsBinding.java
+ com.monika.greatreaders.databinding.AboutUsBinding
+com/monika/greatreaders/MainUI/Dashboard.java
+ com.monika.greatreaders.MainUI.Dashboard
+com/monika/greatreaders/MainUI/RecyclerView/WishListAdapter.java
+ com.monika.greatreaders.MainUI.RecyclerView.WishListAdapter
+ com.monika.greatreaders.MainUI.RecyclerView.WishListAdapter$1
+ com.monika.greatreaders.MainUI.RecyclerView.WishListAdapter$wishlistholder
+com/monika/greatreaders/MainUI/fragments/UserSettings.java
+ com.monika.greatreaders.MainUI.fragments.UserSettings
+ com.monika.greatreaders.MainUI.fragments.UserSettings$Callbacks
+ com.monika.greatreaders.MainUI.fragments.UserSettings$SettingsAdapter
+ com.monika.greatreaders.MainUI.fragments.UserSettings$SettingsAdapter$1
+ com.monika.greatreaders.MainUI.fragments.UserSettings$SettingsAdapter$2
+ com.monika.greatreaders.MainUI.fragments.UserSettings$SettingsAdapter$3
+ com.monika.greatreaders.MainUI.fragments.UserSettings$SettingsAdapter$4
+ com.monika.greatreaders.MainUI.fragments.UserSettings$SettingsAdapter$5
+ com.monika.greatreaders.MainUI.fragments.UserSettings$SettingsAdapter$ViewHolder
+com/monika/greatreaders/databinding/HomeFragmentBinding.java
+ com.monika.greatreaders.databinding.HomeFragmentBinding
+com/monika/greatreaders/databinding/ActivityCustomDashboardBinding.java
+ com.monika.greatreaders.databinding.ActivityCustomDashboardBinding
+com/monika/greatreaders/databinding/PhonePageBinding.java
+ com.monika.greatreaders.databinding.PhonePageBinding
+com/monika/greatreaders/databinding/TraidumpBinding.java
+ com.monika.greatreaders.databinding.TraidumpBinding
+com/monika/greatreaders/PhoneOtp.java
+ com.monika.greatreaders.PhoneOtp
+ com.monika.greatreaders.PhoneOtp$1
+ com.monika.greatreaders.PhoneOtp$2
+ com.monika.greatreaders.PhoneOtp$3
+ com.monika.greatreaders.PhoneOtp$4
+ com.monika.greatreaders.PhoneOtp$4$1
+ com.monika.greatreaders.PhoneOtp$5
+ com.monika.greatreaders.PhoneOtp$6
+com/monika/greatreaders/MainUI/fragments/AboutUs.java
+ com.monika.greatreaders.MainUI.fragments.AboutUs
+com/monika/greatreaders/MainUI/fragments/Home.java
+ com.monika.greatreaders.MainUI.fragments.Home
+ com.monika.greatreaders.MainUI.fragments.Home$1
+ com.monika.greatreaders.MainUI.fragments.Home$1$1
+com/monika/greatreaders/databinding/ActivityBookViewBinding.java
+ com.monika.greatreaders.databinding.ActivityBookViewBinding
+com/monika/greatreaders/MainUI/innerBooks/NewSection.java
+ com.monika.greatreaders.MainUI.innerBooks.NewSection
+com/monika/greatreaders/MainUI/innerBooks/CatMainSection.java
+ com.monika.greatreaders.MainUI.innerBooks.CatMainSection
+ com.monika.greatreaders.MainUI.innerBooks.CatMainSection$1
+ com.monika.greatreaders.MainUI.innerBooks.CatMainSection$2
+ com.monika.greatreaders.MainUI.innerBooks.CatMainSection$3
+ com.monika.greatreaders.MainUI.innerBooks.CatMainSection$4
+ com.monika.greatreaders.MainUI.innerBooks.CatMainSection$5
+com/monika/greatreaders/ModelResponse/latestRecords.java
+ com.monika.greatreaders.ModelResponse.latestRecords
+com/monika/greatreaders/ModelResponse/ProfileViewModel.java
+ com.monika.greatreaders.ModelResponse.ProfileViewModel
+com/monika/greatreaders/ModelResponse/SettingsViewModel.java
+ com.monika.greatreaders.ModelResponse.SettingsViewModel
+com/monika/greatreaders/MainUI/fragments/MyProfile.java
+ com.monika.greatreaders.MainUI.fragments.MyProfile
+ com.monika.greatreaders.MainUI.fragments.MyProfile$1
+ com.monika.greatreaders.MainUI.fragments.MyProfile$1$1
+ com.monika.greatreaders.MainUI.fragments.MyProfile$1$1$1
+com/monika/greatreaders/databinding/PhoneOtpBinding.java
+ com.monika.greatreaders.databinding.PhoneOtpBinding
+com/monika/greatreaders/MainUI/DrawerItem.java
+ com.monika.greatreaders.MainUI.DrawerItem
+com/monika/greatreaders/databinding/MostViewedCardBinding.java
+ com.monika.greatreaders.databinding.MostViewedCardBinding
+com/monika/greatreaders/MainUI/BookViewActivity.java
+ com.monika.greatreaders.MainUI.BookViewActivity
+ com.monika.greatreaders.MainUI.BookViewActivity$1
+ com.monika.greatreaders.MainUI.BookViewActivity$pdfView
+com/monika/greatreaders/ModelResponse/BookDisplay.java
+ com.monika.greatreaders.ModelResponse.BookDisplay
