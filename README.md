@@ -12,3 +12,6 @@ Azure services used:
 3) Chatbot Service :- Azure QnA maker AI. Created knowledge base published it and used for chatbot.
 
 All above services are demonstrated in the video.
+
+# Apk below to test
+https://drive.google.com/file/d/17tVpMModBqAdkfFdl6gS4iNu0SHU6kBy/view?usp=sharing
