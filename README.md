@@ -13,5 +13,8 @@ Azure services used:
 
 All above services are demonstrated in the video.
 
-# Apk below to test
+## Apk below to test
 https://drive.google.com/file/d/17tVpMModBqAdkfFdl6gS4iNu0SHU6kBy/view?usp=sharing
+
+### Dear Mentor
+Some services would stop working because my azure for students 100$ credits has been expired.
