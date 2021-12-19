@@ -13,8 +13,8 @@ Azure services used:
 
 All above services are demonstrated in the video.
 
-## Apk below to test
-https://drive.google.com/file/d/17tVpMModBqAdkfFdl6gS4iNu0SHU6kBy/view?usp=sharing
+## Download
+<a href="https://github.com/amonikag/SmartReaders/releases/download/untagged-dccc26a318ae6107b613/SmartReaders.apk"> Click here to download </a>
 
 ### Dear Mentor
 Some services would stop working because my azure for students 100$ credits has been expired.
