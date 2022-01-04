@@ -16,5 +16,3 @@ All above services are demonstrated in the video.
 ## Download
 <a href="https://github.com/amonikag/SmartReaders/releases/download/untagged-dccc26a318ae6107b613/SmartReaders.apk"> Click here to download </a>
 
-### Dear Mentor
-Some services would stop working because my azure for students 100$ credits has been expired.
