@@ -13,6 +13,6 @@ Azure services used:
 
 All above services are demonstrated in the video.
 
-## Download
+## Download (Time being azure services are stopped)
 <a href="https://github.com/amonikag/SmartReaders/releases/download/untagged-dccc26a318ae6107b613/SmartReaders.apk"> Click here to download </a>
 
