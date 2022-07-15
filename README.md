@@ -1,4 +1,4 @@
-# Bookfriendly
+# Smart Readers
 
 ## Demo of the Application
 
